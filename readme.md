@@ -27,5 +27,5 @@ tsc --init
 Why use typescript?
 
 - JS is dynamically typed, it doesn't know the variable type. While TS is statically typed, you explicitly assign types to variables / function parameters / return values
-- Advantages: produce less error code, easier to debug due to alert in IDE, higher predictability & readability, more popular
+- Advantages: produce less error code, easier to debug due to alert in IDE, higher predictability & readability, more popular, client compliance (better security)
 - Disadvantages: more code to write, more thing to learn, require compilation

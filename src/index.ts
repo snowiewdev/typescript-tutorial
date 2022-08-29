@@ -152,3 +152,5 @@ function getArray<T>(items: T[]): T[] {
 
 let numArray = getArray<number>([1, 2, 3, 4]);
 let strArray = getArray<string>(["brad", "john", "jill"]);
+
+strArray.push(1); // Throws error

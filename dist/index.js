@@ -95,3 +95,4 @@ function getArray(items) {
 }
 let numArray = getArray([1, 2, 3, 4]);
 let strArray = getArray(["brad", "john", "jill"]);
+strArray.push(1); // Throws error
